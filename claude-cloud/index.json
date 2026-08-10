@@ -1,0 +1,22 @@
+{
+  "repository": "qwe544563976-source/JS-BOOK",
+  "ref": "main",
+  "files": [
+    {
+      "filename": "claude-vedic-evidence-data-latest.zip",
+      "bytes": 62831076,
+      "sha256": "a73bb4955614b9b8f462af5f801f6cc38f66398902b40cfb5dcb673dde55efa3",
+      "download_url": "https://raw.githubusercontent.com/qwe544563976-source/JS-BOOK/main/claude-cloud/claude-vedic-evidence-data-latest.zip",
+      "repository_path": "claude-cloud/claude-vedic-evidence-data-latest.zip",
+      "lfs": false
+    },
+    {
+      "filename": "claude-bge-m3-query-model-v1.zip",
+      "bytes": 591774965,
+      "sha256": "5583d2ae0af2c90c32b106386e974659aa2407f1b42291152823d0fb546c1924",
+      "download_url": "https://media.githubusercontent.com/media/qwe544563976-source/JS-BOOK/main/claude-cloud/claude-bge-m3-query-model-v1.zip",
+      "repository_path": "claude-cloud/claude-bge-m3-query-model-v1.zip",
+      "lfs": true
+    }
+  ]
+}
