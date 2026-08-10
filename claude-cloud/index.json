@@ -4,8 +4,8 @@
   "files": [
     {
       "filename": "claude-vedic-evidence-data-latest.zip",
-      "bytes": 62831076,
-      "sha256": "a73bb4955614b9b8f462af5f801f6cc38f66398902b40cfb5dcb673dde55efa3",
+      "bytes": 62831135,
+      "sha256": "5b9fd7055279a60eba2a6beed088dbc73ee3ff79476d302f8f72f72c970ac1e5",
       "download_url": "https://raw.githubusercontent.com/qwe544563976-source/JS-BOOK/main/claude-cloud/claude-vedic-evidence-data-latest.zip",
       "repository_path": "claude-cloud/claude-vedic-evidence-data-latest.zip",
       "lfs": false
